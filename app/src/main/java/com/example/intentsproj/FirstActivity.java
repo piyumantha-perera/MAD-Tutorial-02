@@ -47,6 +47,15 @@ public class FirstActivity extends AppCompatActivity {
                 toast.show();
 
 
+                //        LayoutInflater li = getLayoutInflater();
+//        View layout = li.inflate(R.layout.customtost, (ViewGroup)
+//                findViewById(R.id.custom_toast_layout));
+//        Toast toast = new Toast(getApplicationContext());
+//        toast.setDuration(Toast.LENGTH_SHORT);
+//        toast.setGravity(Gravity.CENTER_VERTICAL, 0, 0);
+//        toast.setView(layout);
+//        toast.show();
+
 
 
             }
